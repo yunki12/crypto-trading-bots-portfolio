@@ -21,6 +21,7 @@ Application : Spring Boot 3.2, JPA, Querydsl, WebClient, Java 17, Gradle 8.5
 1) 수익 매도 퍼센트
 2) 손절 매도 퍼센트
 
+
 3. 알림
 1) 매수 알림
 2) 매도 알림
