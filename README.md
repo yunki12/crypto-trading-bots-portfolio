@@ -3,7 +3,7 @@
 # 암호화폐 자동매매 애플리케이션
 
 ### 플로우 차트
-<img src="https://github.com/user-attachments/assets/4b9a0ce8-0d35-415b-8ec6-c209eed8387d" width="900" height="700"/>
+<img src="https://private-user-images.githubusercontent.com/31138701/349994461-53fb5af0-993e-489d-8958-5ec8315d3f91.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEzODU1MjMsIm5iZiI6MTcyMTM4NTIyMywicGF0aCI6Ii8zMTEzODcwMS8zNDk5OTQ0NjEtNTNmYjVhZjAtOTkzZS00ODlkLTg5NTgtNWVjODMxNWQzZjkxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzE5VDEwMzM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYxMmY2ODg4YzVlYzY1YTM4NTMwYjg0ZDlmNDRlOGY1YWEyZmNmZjJkYmM0NGI2YzZlMjQ1OTBlNTk5MjI0NDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._tCH4yvh9QdrVtIPjmJLhdEGNM1gMXTNq4ZQY0BQ12Y" width="900" height="700"/>
 
 ### 기술 스택
 Cloud : GCP (인스턴스 OS : Debian GNU/Linux 11)
