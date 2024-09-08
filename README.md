@@ -27,7 +27,7 @@ Application : Spring Boot 3.2, JPA, Querydsl, WebClient, Java 17, Gradle 8.5
 #### 3.매수취소
 1) 매일 8시55분에 전일 매수 종목 취소
 
-#### 4. 알림
+#### 4.알림
 1) 매수 알림
 2) 매도 알림
 3) 매수 취소 알림
