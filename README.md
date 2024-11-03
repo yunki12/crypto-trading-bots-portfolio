@@ -6,7 +6,7 @@
 24시간 자동매매를 통해 금융소득 창출
 
 ### 플로우 차트
-https://github.com/yunki12/crypto-trading-bots-portfolio/blob/main/365414026-ee74c00c-671b-4be7-bfd9-5d2a3fc4330d.png?raw=true
+<img src="https://github.com/yunki12/crypto-trading-bots-portfolio/blob/main/365414026-ee74c00c-671b-4be7-bfd9-5d2a3fc4330d.png?raw=true">
 
 ### 기술 스택
 Cloud : GCP (인스턴스 OS : Debian GNU/Linux 11)
