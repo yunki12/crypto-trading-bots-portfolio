@@ -10,7 +10,7 @@
 
 ### 기술 스택
 Cloud : GCP (인스턴스 OS : Debian GNU/Linux 11)
-Application : Spring Boot 3.2, JPA, Querydsl, WebClient, Java 17, Gradle 8.5
+Application : Spring Boot 3.5.6, JPA, Querydsl, WebClient, Java 21, Gradle 8.5
 DataBase : H2
 
 ### 주요 기능
